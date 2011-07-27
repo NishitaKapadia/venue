@@ -1,0 +1,9 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  venue_id: MyString
+  facility: MyString
+
+two:
+  venue_id: MyString
+  facility: MyString
